@@ -54,14 +54,16 @@ Port: 5432
 
 # Progress
 
+[✓] GitHub Repository
 [✓] PostgreSQL Setup
 [✓] FastAPI Setup
+[✓] SQLAlchemy Setup
 [✓] Database Connection
-[✓] Universe CRUD
-[✓] Character Model
-[✓] Character CRUD
 
-[ ] Novel CRUD
+[✓] Universe CRUD
+[✓] Character CRUD
+[✓] Novel CRUD
+
 [ ] Chapter CRUD
 [ ] Memory CRUD
 [ ] Frontend Dashboard
